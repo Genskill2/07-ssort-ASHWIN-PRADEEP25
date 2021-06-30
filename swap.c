@@ -33,4 +33,4 @@ void ssort(int arr[], int l)
   {
       printf("%d ",arr[p]); 
   }
-}
+)
